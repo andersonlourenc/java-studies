@@ -1,6 +1,6 @@
 package basics.Arrays;
 
-public class praticeArrayMulti {
+public class PraticeArrayMulti {
     public static void main(String[] args) {
 
          int[][] matrix = {

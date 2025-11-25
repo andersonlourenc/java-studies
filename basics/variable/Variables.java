@@ -1,5 +1,5 @@
 package basics.variable;
-public class variables {
+public class Variables {
     public static void main (String[] args) {
 
          int cadence = 0;

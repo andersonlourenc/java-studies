@@ -1,6 +1,6 @@
 package basics.Arrays;
 
-public class praticeArrayBasics {
+public class PraticeArrayBasics {
 
     public static void main(String[] args) {
 

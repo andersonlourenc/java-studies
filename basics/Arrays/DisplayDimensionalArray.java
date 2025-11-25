@@ -1,6 +1,6 @@
 package basics.Arrays;
 
-public class displayDimensionalArray { 
+public class DisplayDimensionalArray { 
 
     
     void printMatrix(String[][] strings) {
@@ -25,7 +25,7 @@ public class displayDimensionalArray {
             {"Washington", "London", "Paris", "Berlin", "Tokyo"}
         };
 
-        displayDimensionalArray app = new displayDimensionalArray();
+        DisplayDimensionalArray app = new DisplayDimensionalArray();
         
     
         app.printMatrix(strings); 

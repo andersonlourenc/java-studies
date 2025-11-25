@@ -1,6 +1,6 @@
 package basics.Arrays;
 
-public class praticeArrayLoops {
+public class PraticeArrayLoops {
     public static void main(String[] args) {
 
         int [] scores = {95, 87, 92, 78, 85};
