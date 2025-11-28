@@ -1,4 +1,4 @@
-package basics.Arrays;
+package basics.arrays;
 
 public class PraticeArrayMulti {
     public static void main(String[] args) {
